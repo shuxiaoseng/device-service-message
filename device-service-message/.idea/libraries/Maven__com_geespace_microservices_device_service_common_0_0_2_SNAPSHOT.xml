@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.geespace.microservices:device-service-common:0.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/microservices/device-service-common/0.0.2-SNAPSHOT/device-service-common-0.0.2-20190808.075732-68.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/microservices/device-service-common/0.0.2-SNAPSHOT/device-service-common-0.0.2-20190808.075732-68-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/microservices/device-service-common/0.0.2-SNAPSHOT/device-service-common-0.0.2-20190808.075732-68-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

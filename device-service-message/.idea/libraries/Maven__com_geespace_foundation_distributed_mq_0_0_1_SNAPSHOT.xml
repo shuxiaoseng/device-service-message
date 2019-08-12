@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.geespace.foundation:distributed-mq:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/distributed-mq/0.0.1-SNAPSHOT/distributed-mq-0.0.1-20190513.113316-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/distributed-mq/0.0.1-SNAPSHOT/distributed-mq-0.0.1-20190513.113316-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/distributed-mq/0.0.1-SNAPSHOT/distributed-mq-0.0.1-20190513.113316-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

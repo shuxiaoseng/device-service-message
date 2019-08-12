@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.geespace.foundation:distributed-storage:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/distributed-storage/0.0.1-SNAPSHOT/distributed-storage-0.0.1-20190522.082329-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/distributed-storage/0.0.1-SNAPSHOT/distributed-storage-0.0.1-20190522.082329-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/distributed-storage/0.0.1-SNAPSHOT/distributed-storage-0.0.1-20190522.082329-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

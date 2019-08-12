@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.geespace.foundation:config-client:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/config-client/0.0.1-SNAPSHOT/config-client-0.0.1-20190731.091625-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/config-client/0.0.1-SNAPSHOT/config-client-0.0.1-20190731.091625-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/geespace/foundation/config-client/0.0.1-SNAPSHOT/config-client-0.0.1-20190731.091625-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
