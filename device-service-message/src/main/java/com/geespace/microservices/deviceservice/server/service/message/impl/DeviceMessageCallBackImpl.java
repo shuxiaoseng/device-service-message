@@ -46,9 +46,5 @@ public class DeviceMessageCallBackImpl implements DeviceMessageCallBackService {
     public void writeDeviceLogDtoEs(DeviceLogTypeDto deviceLogDto) {
         log.error("Error when excute device-service POST /device/v1/device");
     }
-
-    @Override
-    public String test() {
-        return "aaa";
-    }
+    
 }

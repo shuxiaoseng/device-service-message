@@ -93,6 +93,4 @@ public class DeviceMessageCallBackController {
     void writeDeviceLogDtoEs(@RequestBody DeviceLogTypeDto deviceLogDto){
         deviceMessageCallBackService.writeDeviceLogDtoEs(deviceLogDto);
     }
-
-
 }
